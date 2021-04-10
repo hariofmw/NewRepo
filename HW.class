@@ -1,5 +1,6 @@
 class HW{
 	public static void main(String[] abc){
 		Sytem.out.println("HelloWorld1");
+		System.out.println("My Second Line");
 	}
 }
